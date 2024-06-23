@@ -1,0 +1,166 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "floydTri",
+            "request": "launch",
+            "mainClass": "pattern.floydTri",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "NumIpyramid",
+            "request": "launch",
+            "mainClass": "pattern.NumIpyramid",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "NumPyramid",
+            "request": "launch",
+            "mainClass": "pattern.NumPyramid",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "PracticeInput.first",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "AddInt",
+            "request": "launch",
+            "mainClass": "AddInt",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Pinput.Add",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "PrintMonth",
+            "request": "launch",
+            "mainClass": "conditional.PrintMonth",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "SolidRect",
+            "request": "launch",
+            "mainClass": "pattern.SolidRect",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Invetrothpyr",
+            "request": "launch",
+            "mainClass": "pattern.Invetrothpyr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "InvertHpyra",
+            "request": "launch",
+            "mainClass": "pattern.InvertHpyra",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "HRect",
+            "request": "launch",
+            "mainClass": "pattern.HRect",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyr",
+            "request": "launch",
+            "mainClass": "pattern.HalfPyr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Invetrothpyr",
+            "request": "launch",
+            "mainClass": "Invetrothpyr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "InvertHpyra",
+            "request": "launch",
+            "mainClass": "InvertHpyra",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyr",
+            "request": "launch",
+            "mainClass": "HalfPyr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "HRect",
+            "request": "launch",
+            "mainClass": "HRect",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "SolidRect",
+            "request": "launch",
+            "mainClass": "SolidRect",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNum",
+            "request": "launch",
+            "mainClass": "SumOfNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "PrintMonth",
+            "request": "launch",
+            "mainClass": "PrintMonth",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Java",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
+
