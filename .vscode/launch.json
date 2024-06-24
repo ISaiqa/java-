@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "butterflyP",
+            "request": "launch",
+            "mainClass": "pattern.butterflyP",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "NumPyramidP",
+            "request": "launch",
+            "mainClass": "pattern.NumPyramidP",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "numberPyramid",
+            "request": "launch",
+            "mainClass": "pattern.numberPyramid",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "solidRhombus",
+            "request": "launch",
+            "mainClass": "pattern.solidRhombus",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "zeroOne",
+            "request": "launch",
+            "mainClass": "pattern.zeroOne",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "floydTri",
             "request": "launch",
             "mainClass": "pattern.floydTri",
