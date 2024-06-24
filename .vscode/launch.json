@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hRhombus",
+            "request": "launch",
+            "mainClass": "pattern.hRhombus",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "HButterfly",
+            "request": "launch",
+            "mainClass": "pattern.HButterfly",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "allEvenNum",
+            "request": "launch",
+            "mainClass": "conditional.allEvenNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "diamond",
             "request": "launch",
             "mainClass": "pattern.diamond",
