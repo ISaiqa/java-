@@ -1,7 +1,61 @@
 {
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "MultiFeatureApp",
+            "request": "launch",
+            "mainClass": "MultiFeatureApp",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "AttractiveSwingApp",
+            "request": "launch",
+            "mainClass": "AttractiveSwingApp",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "gui",
+            "request": "launch",
+            "mainClass": "gui",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "functions.factorial",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "prodNum",
+            "request": "launch",
+            "mainClass": "functions.prodNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "functions.table",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "evenNum",
+            "request": "launch",
+            "mainClass": "functions.evenNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "primeNumf",
+            "request": "launch",
+            "mainClass": "functions.primeNumf",
+            "projectName": "java code_e97f79f9"
+        },
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
@@ -10,7 +64,6 @@
             "console": "internalConsole",
             "mainClass": "${file}"
         },
-        
         {
             "type": "java",
             "name": "primeNum",
