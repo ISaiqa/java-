@@ -1,5 +1,23 @@
 {
     "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "args": "",
+            "console": "internalConsole",
+            "mainClass": "${file}"
+        },
+        
+        {
+            "type": "java",
+            "name": "primeNum",
+            "request": "launch",
+            "mainClass": "conditional.primeNum",
+            "projectName": "java code_e97f79f9"
+        },
         {
             "type": "java",
             "name": "hRhombus",
