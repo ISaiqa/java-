@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "functions.DoWhile",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "Circumference",
+            "request": "launch",
+            "mainClass": "functions.Circumference",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "voteEligible",
+            "request": "launch",
+            "mainClass": "functions.voteEligible",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "greaterNum",
+            "request": "launch",
+            "mainClass": "functions.greaterNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "sumOfOddNum",
+            "request": "launch",
+            "mainClass": "functions.sumOfOddNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "averageThreenum",
+            "request": "launch",
+            "mainClass": "functions.averageThreenum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "MultiFeatureApp",
             "request": "launch",
             "mainClass": "MultiFeatureApp",
