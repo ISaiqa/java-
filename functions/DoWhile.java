@@ -1,6 +1,6 @@
 package functions;
 
-import java.io.IOException;
+//import java.io.IOException;
 //import java.util.*;
 
 /*public class DoWhile 
@@ -45,7 +45,8 @@ int countz=0,countp=0,countn=0;
 }*/
 import java.util.Scanner;
 
-public class DoWhile {
+public class DoWhile 
+{
     public static void main(String[] args) {
         int countz = 0, countp = 0, countn = 0;
         System.out.println("This program will keep entering numbers until you press 's' to stop.");
@@ -65,11 +66,14 @@ public class DoWhile {
                 n = c;
             }
 
-            if (n == 0) {
+            if (n == 0) 
+            {
                 countz++;
-            } else if (n > 0) {
+            } else if (n > 0) 
+            {
                 countp++;
-            } else {
+            } else 
+            {
                 countn++;
             }
         } while (c != 's');

@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arrayAscending",
+            "request": "launch",
+            "mainClass": "arrays.arrayAscending",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "minMax",
+            "request": "launch",
+            "mainClass": "arrays.minMax",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "names",
+            "request": "launch",
+            "mainClass": "arrays.names",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "functions.GCD",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "exponent",
+            "request": "launch",
+            "mainClass": "functions.exponent",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "functions.a",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "DoWhile",
             "request": "launch",
             "mainClass": "functions.DoWhile",
