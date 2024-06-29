@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "spiralMatrix",
+            "request": "launch",
+            "mainClass": "arrays.spiralMatrix",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "arrays.transpose",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "searchElement",
+            "request": "launch",
+            "mainClass": "arrays.searchElement",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "dArray",
+            "request": "launch",
+            "mainClass": "arrays.dArray",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "arrayAscending",
             "request": "launch",
             "mainClass": "arrays.arrayAscending",
