@@ -2,6 +2,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "emailToName",
+            "request": "launch",
+            "mainClass": "strings.emailToName",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "insertStr",
+            "request": "launch",
+            "mainClass": "strings.insertStr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "stringArray",
+            "request": "launch",
+            "mainClass": "strings.stringArray",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "parseInteger",
+            "request": "launch",
+            "mainClass": "strings.parseInteger",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "subString",
+            "request": "launch",
+            "mainClass": "strings.subString",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "compareStr",
+            "request": "launch",
+            "mainClass": "strings.compareStr",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "charAT",
+            "request": "launch",
+            "mainClass": "strings.charAT",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "joinStrings",
+            "request": "launch",
+            "mainClass": "strings.joinStrings",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "stringlen",
+            "request": "launch",
+            "mainClass": "strings.stringlen",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "spiralMatrix",
             "request": "launch",
             "mainClass": "arrays.spiralMatrix",
