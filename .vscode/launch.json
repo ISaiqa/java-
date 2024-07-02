@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "strings.stringBuild.reverseString",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "stringBuilder",
+            "request": "launch",
+            "mainClass": "strings.stringBuild.stringBuilder",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "declare",
+            "request": "launch",
+            "mainClass": "strings.stringBuild.declare",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "emailToName",
             "request": "launch",
             "mainClass": "strings.emailToName",
