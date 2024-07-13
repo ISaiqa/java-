@@ -2,6 +2,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibnocciSeries",
+            "request": "launch",
+            "mainClass": "conditional.fibnocciSeries",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciSeries",
+            "request": "launch",
+            "mainClass": "fibonacciSeries",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "factorialofN",
+            "request": "launch",
+            "mainClass": "factorialofN",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "printSumOfNaturlaNum",
+            "request": "launch",
+            "mainClass": "printSumOfNaturlaNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "printNumberA",
+            "request": "launch",
+            "mainClass": "printNumberA",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "printNumber",
+            "request": "launch",
+            "mainClass": "printNumber",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "insertSort",
+            "request": "launch",
+            "mainClass": "sorting.insertSort",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "selectSort",
+            "request": "launch",
+            "mainClass": "sorting.selectSort",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "sorting.bubbleSort",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "clearBit",
+            "request": "launch",
+            "mainClass": "bitManipulate.clearBit",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "updateBit",
+            "request": "launch",
+            "mainClass": "bitManipulate.updateBit",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "setBit",
+            "request": "launch",
+            "mainClass": "bitManipulate.setBit",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "getBit",
+            "request": "launch",
+            "mainClass": "bitManipulate.getBit",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "reverseString",
             "request": "launch",
             "mainClass": "strings.stringBuild.reverseString",
