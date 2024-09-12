@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dArray",
+            "request": "launch",
+            "mainClass": "arrays.dArray",
+            "projectName": "Java Code_60e30df9"
+        },
+        {
+            "type": "java",
+            "name": "sortedArrayIncreasing",
+            "request": "launch",
+            "mainClass": "sortedArrayIncreasing",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "firstAndLastInndex",
+            "request": "launch",
+            "mainClass": "firstAndLastInndex",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "printReverseString",
+            "request": "launch",
+            "mainClass": "printReverseString",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "towerofHnaoi",
+            "request": "launch",
+            "mainClass": "towerofHnaoi",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
+            "name": "powerofNum",
+            "request": "launch",
+            "mainClass": "powerofNum",
+            "projectName": "java code_e97f79f9"
+        },
+        {
+            "type": "java",
             "name": "fibnocciSeries",
             "request": "launch",
             "mainClass": "conditional.fibnocciSeries",
